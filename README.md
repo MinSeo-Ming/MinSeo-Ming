@@ -61,7 +61,7 @@ Hello i am minseo Cho!
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logoGitHub&logoColor=white" />
 
-![Minseo's GitHub stats](https://github-readme-stats.vercel.app/api?username=minseo&show_icons=true&theme=radical)
+![Minseo's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinSeo-Ming&show_icons=true&theme=radical)
 
 
 
