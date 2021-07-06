@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=4FE6D0&height=300&section=header&text=minseo%20cho&fontSize=70)
-
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=4FE6D0&height=300&section=header&text=minseo%20cho&fontSize=70)
+-->
 Hello i am minseo Cho!
 
 
