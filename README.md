@@ -69,5 +69,5 @@ Hello i am minseo Cho!
 
 ###  :mailbox: Contact
 
-<a href ="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=chj2171@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logoGmail&logoColor=white" ></a>
+<a href =<a href="mailto:chj2171@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logoGmail&logoColor=white" ></a>
 
