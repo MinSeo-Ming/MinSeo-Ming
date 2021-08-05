@@ -7,6 +7,8 @@
 
 git readme를 고정해서 꾸미는 방법은.. 
 
+fixed
+
 ###   본인 닉네임으로 repository를 생성을 한다
 
 필자의 경우는 Minseo-Ming으로 설정을 해뒀기 때문에.. 레포를
