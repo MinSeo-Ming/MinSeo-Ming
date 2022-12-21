@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 Hello i am minseo Cho!
 I’m currently learning SpringBoot, MSA, AWS, Kubernetes.
 And Studing & Reviewing DesignPattern & Network & Operationg System.
-I want to be **backend developer or cloud engineer* 
+I want to be **backend developer or cloud engineer**
 
 
 ###  :muscle:Skills
